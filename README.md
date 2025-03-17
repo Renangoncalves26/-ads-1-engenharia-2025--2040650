@@ -28,11 +28,11 @@ As principais cerimonias são: Refinamento do backlog do produto, etapa de anál
 O kaban é uma metodologia, em formato de cartões, de gestão de trabalho visual, que tem a finalidade de organizar o fluxo de tarefas e aumentar sua eficiência; ele é aplicado em equipes de desenvolvimento ágil e software, em locais de manufatura e fabricaçao e até em locais particulares de trabalhos pessoais ou locais corporativos. 
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+osOs principios dessa metodologia são: a comunicação clara e constante entre todos os individuos, a simplicidade, somente o necessário e as modificações para o futuro; o feedback constante para os clientes e a coragem na tomada de decisões dificeis e o respeito com todo tipo de possiveis opniões.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
-
-### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+Ambas ferramentas se tratam em gerenciar e hospedar códigos-fonte para inumeras aplicações. Ele é usado para auxiliar as equipes nos planejamentos de algum projeto e facilitar a visibilidade
+ das diversas ideias.
+ ### 🎮 Jira / Trello  
+Essas ferramentas são ótimas para a colaboração e discussão em equipe, permitindo comentários e anexos para coordenação e responsabilidade, o o jira auxiliando e sendo favorito em ambientes de trabalhos ágeis e o trello muitas vezes escolhido wm ambientes de trabalho onde uma simples divisão de tarefas pode acelerar o desempenho.
